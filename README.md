@@ -42,6 +42,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
   - [Collapse](#collapse)
   - [Chart](#chart)
   - [Command palette](#command-palette)
+  - [Component Aggregates](#component-aggregates)
   - [Tree](#tree)
   - [UI Navigation](#ui-navigation)
   - [Custom Scrollbar](#custom-scrollbar)
@@ -406,6 +407,7 @@ _Sketch input using Canvas or SVG_
 - [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Allows users to create random kaleidoscopes to be used as avatars.
 - [react-awesome-query-builder](https://github.com/ukrbublik/react-awesome-query-builder) - [demo](https://ukrbublik.github.io/react-awesome-query-builder/) - Visual query builder from form fields, with SQL, MongoDB and JSON export
 - [react-blur](https://github.com/javierbyte/react-blur) - React component for blurred backgrounds.
+- [React Chat Bot](https://github.com/ckalgos/react-chat-bot) - React Chatbot component.
 - [react-demo-tab](https://github.com/mkosir/react-demo-tab) - [demo](https://mkosir.github.io/react-demo-tab) - A React component to easily create demos of other components.
 - [react-facebook](https://github.com/CherryProjects/react-facebook) - Facebook components like a Login button, Like, Share, Comments, Page or Embedded Post.
 - [fastcomments-react](https://github.com/fastcomments/fastcomments-react) - [demo](<https://blog.fastcomments.com/(12-30-2019)-fastcomments-demo.html>) - FastComments component for embedding a live comment thread on a page or SPA.
@@ -720,17 +722,34 @@ _Set of components + responsive layout system_
 - [Ionic React](https://ionicframework.com/blog/announcing-ionic-react/) - Ionic Framework: easily build Android, Desktop and Progressive Web Apps with one code base.
 - [OnsenUI](https://github.com/OnsenUI/OnsenUI/) - [demo/docs](https://onsen.io/v2/guide/react/) - Mobile app framework with Material and flat (iOS) designs. Based on Web Components.
 
-### Component Collections
+### Component Collections and Aggregators
 
-- [blueprint](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for building complex, data-dense web interfaces for desktop (not mobile) applications.
-- [dataminr-react-components](https://github.com/dataminr/react-components) - Collection of reusable React Components and utility functions.
-- [shards-react](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
+- [21st Dev](https://21st.dev/) - Discover, share & remix the best UI components. Aggrate library of components from many contributors.
+- [aceternity](https://ui.aceternity.com/components) - Component library with advanced animated effects and functionality.
 - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
+- [blueprint](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for building complex, data-dense web interfaces for desktop (not mobile) applications.
+- [BuouUI](https://buouui.com/docs) - UI library with components, sections, landing pages, and templates etc.
+- [Cuicui Day](https://cuicui.day/getting-started) - Simple, unique and clean UI components and snippets.
+- [Cult UI](https://www.cult-ui.com/docs) - Beautifully designed components that you can copy and paste into your apps.
+- [dataminr-react-components](https://github.com/dataminr/react-components) - Collection of reusable React Components and utility functions.
+- [Ever UI](https://www.ever-ui.com/) - Unstyled highly composable components that you can copy/paste in your own codebase. Built with Tailwind CSS and a bit of Framer Motion. Customize them as you want.
+- [Hover Dev](https://www.hover.dev/components/boards) - Component library focused on components with simple animations.
+- [Indie UI](https://ui.indie-starter.dev/) - Rich Styled UI Components. Make your website stand out with minimal effort. Built with Reactjs, shadcn and Framer Motion for animation.
+- [lens-ui](https://github.com/luciancaetano/lens-ui) - [docs](https://github.com/luciancaetano/lens-ui/blob/main/docs/introduction.md) - A Suit of components focused on simplicity.
+- [Magic UI](https://magicui.design/docs/components/marquee) - Component library with advanced animated effects and functionality.
+- [matrix-card](https://github.com/MehmetKaplan/matrix-card) - [demo](https://mehmetkaplan.github.io/matrix-card/) - Simplest possible component to generate matrix rain style cards.
+- [Motion-Primitives](https://motion-primitives.com/docs) - Motion-Primitives offers a collection of reusable animated components built with Motion and Tailwind CSS, ready to use in your React projects.
+- [Origin UI](https://originui.com/) - Beautiful UI components built with Tailwind CSS and React. An open-source collection of copy-and-paste components for quickly build application UIs.
+- [Penguin UI](https://originui.com/) - Beautiful UI components built with Tailwind CSS and React. An open-source collection of copy-and-paste components for quickly build application UIs.
+- [React Bits](https://www.reactbits.dev/) - Animated React components for creative developers. 80+ snippets, ready to use in your React projects.
 - [react-admin](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
 - [refine](https://github.com/pankod/refine) - [demo](https://example.refine.dev) - [docs](https://refine.dev/docs) - Build data-intensive applications in no time. It ships with Ant Design System, an enterprise-level UI toolkit.
-- [matrix-card](https://github.com/MehmetKaplan/matrix-card) - [demo](https://mehmetkaplan.github.io/matrix-card/) - Simplest possible component to generate matrix rain style cards.
 - [rsuite](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - Suite of components for "enterprise system products".
-- [lens-ui](https://github.com/luciancaetano/lens-ui) - [docs](https://github.com/luciancaetano/lens-ui/blob/main/docs/introduction.md) - A Suit of components focused on simplicity.
+- [shards-react](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
+- [Tailark](https://tailark.com/) - Shadcn Blocks for Modern Websites Modern, Responsive, pre-built UI blocks designed for marketing websites.
+- [Tailspark](https://tailspark.co/components) - 350+ TailwindCSS and React components to build your site in minutes includes the full source code and figma files.
+- [Tailus UI](https://ui.tailus.io/react/get-started/installation/) - Highly customizable React components for crafting modern, personalized websites and applications.
+- [Treact](https://treact.owaiskhan.me/) - Easily customizable modern React UI Templates and Components built using TailwindCSS which are also lightweight and simple to setup.
 
 ## UI Utilities
 
